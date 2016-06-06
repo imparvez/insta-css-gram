@@ -1,0 +1,24 @@
+h1, 
+h2 {
+	text-align: center;
+	font-family: 'Sigmar One', cursive;
+}
+
+ul.filter-list {
+	list-style: none;
+    overflow: hidden;
+}
+
+ul.filter-list li {
+    float: left;
+    margin: 0 15px 10px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+section figure {
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+}
